@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <!--
 **SHAR-K-AI/SHAR-K-AI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hello! 👋
+## Hi there 👋
 
 Welcome to my GitHub profile! Here you can explore my projects, covering various aspects of software development, artificial intelligence, ecology, and more.
 
