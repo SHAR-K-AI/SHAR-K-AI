@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## Hi there 👋
+# Hi there 👋
 
 Welcome to my GitHub profile! Here you can explore my projects, covering various aspects of software development, artificial intelligence, ecology, and more.
 
