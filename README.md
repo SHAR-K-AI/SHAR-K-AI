@@ -20,11 +20,37 @@ Welcome to my GitHub profile! Here you can explore my projects, covering various
 
 ---
 
-## 💼 About Me
+## 👨‍💻 About Me
 
-- 🌱 Constantly learning new technologies and practices.
-- 💻 Passionate about software development and promoting IT in my region.
-- ⚙️ Experienced in organizing meetings and building communities around AI, ecology, and skill development.
+Results-oriented **Software Engineer** with a strong focus on **Front-End development**, specializing in creating scalable, high-performance applications.  
+Passionate about **AI**, **ML**, and **performance optimization**, with extensive experience in **SEO best practices**.
+
+💡 Proficient in modern technologies such as:
+- **Next.js**
+- **React.js**
+- **Tailwind CSS**
+- **Material-UI**
+
+to build efficient and user-friendly solutions.
+
+🎯 **Key Highlights:**
+- Highly skilled in integrating **AI-driven features** to enhance user engagement and functionality.
+- Collaborated with cross-functional teams to develop feature-rich solutions including:
+  - Admin panels
+  - CRM systems
+  - Landing pages
+  - Satellite sites
+  - Chrome extensions
+
+📚 Committed to continuous professional development:
+- Multiple certifications in **AI**, **ML**, and related technologies.
+- Passionate about the intersection of **technology**, **education**, and **sustainability**.
+- Striving to create impactful, forward-thinking solutions.
+
+---
+
+Let’s build something meaningful together 🚀
+
 
 ---
 
@@ -38,11 +64,56 @@ Welcome to my GitHub profile! Here you can explore my projects, covering various
 
 ---
 
-## 🛠️ My Skills
+## 💻 Tech Stack
 
-- **Languages**: Python, JavaScript, [other languages]
-- **Frameworks and Tools**: [list of frameworks], Calendly, [other tools]
-- **Topics**: artificial intelligence, ecological projects, educational planning, process automation
+### 🧠 Programming Languages
+- JavaScript
+- TypeScript
+- Python
+
+### 🎨 Front-End Development
+- React.js
+- HTML5 / CSS3
+- Tailwind CSS
+- Material-UI
+
+### 🔧 Back-End Development
+- Next.js
+- Node.js
+- Koa.js
+- Express.js
+- Nest.js
+
+### ✅ Testing
+- Jest.js
+- Mocha.js / Chai.js
+- Unit & Integration Testing
+
+### 🤖 AI & ML
+- TensorFlow
+- OpenAI API
+- Gemini API
+- AI-driven applications
+
+### 🛠️ Tools & Platforms
+- Git (GitHub, GitLab)
+- CI/CD Pipelines
+- Docker
+- Webpack / Babel
+- Prettier / ESLint
+- RESTful APIs / GraphQL
+- Google Cloud Platform (GCP)
+
+### 🚀 SEO & Performance Optimization
+- Core Web Vitals
+- Lighthouse
+- Web Accessibility (WCAG)
+- Performance Tuning
+- GTM (Google Analytics) / GSC (Schema.org)
+
+### 📋 Project Management
+- Agile / Scrum / Kanban
+- Redmine, Jira, Trello, YouTrack
 
 ---
 
