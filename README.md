@@ -10,10 +10,10 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 # Hi there 👋
 
 Welcome to my GitHub profile! Here you can explore my projects, covering various aspects of software development, artificial intelligence, ecology, and more.
@@ -50,7 +50,6 @@ to build efficient and user-friendly solutions.
 ---
 
 Let’s build something meaningful together 🚀
-
 
 ---
 
@@ -114,14 +113,6 @@ Let’s build something meaningful together 🚀
 ### 📋 Project Management
 - Agile / Scrum / Kanban
 - Redmine, Jira, Trello, YouTrack
-
----
-
-## 📬 Connect with Me
-
-- 💼 LinkedIn: (https://www.linkedin.com/in/vadym-sharai/)
-- 🖥️ GitHub: [your GitHub page]
-
 ---
 
 Thank you for visiting! I hope you find my projects useful and inspiring.
