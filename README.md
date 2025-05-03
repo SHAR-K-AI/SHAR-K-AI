@@ -20,6 +20,10 @@ Welcome to my GitHub profile! Here you can explore my projects, covering various
 
 ---
 
+## 🚀 YouTube [Shar-K-AI](https://www.youtube.com/@Shar-K-AI)
+
+---
+
 ## 👨‍💻 About Me
 
 Results-oriented **Software Engineer** with a strong focus on **Front-End development**, specializing in creating scalable, high-performance applications.  
